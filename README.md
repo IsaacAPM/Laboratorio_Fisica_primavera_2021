@@ -5,4 +5,4 @@
 #### Asistente de profesor: Isaac Alejandro Pimentel Morales
 
 ### En este repositorio se encuentran las *Jupyter Notebooks* 
-![Imgur](https://i.imgur.com/fuTDp8j.jpg)
+![Imgur](https://i.imgur.com/YKyPqeN.jpg)
