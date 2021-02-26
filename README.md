@@ -7,7 +7,7 @@
 ### En este repositorio se encuentran las *Jupyter Notebooks*  que se utilizan en la clase de **Elementos de Física**
 ![Imgur](https://i.imgur.com/YKyPqeN.jpg)
 
-#### Contenido
+### Contenido
 1. Códigos de la clase
 	- Clase 2 Movimiento de proyectiles
 2. Graficas de funciones
@@ -15,3 +15,19 @@
 	- Graficas de contorno, superficies
 	- Trayectoria en 3D
 	- Vectores en 2D.
+
+### Códigos de la clase
+En esta sección encontrara las *Jupyter Notebooks* que se utilazan durante la clase para demostrar y/o modelar ejercicios.
+##### Clase 2 Movimiento de proyectiles
+Esta libreta grafica el cambio de la velocidad de un proyectil a lo largo del tiempo. En específico se grafican las siguientes ecuaciones:
+
+$$
+x\left(t\right)=v_{ox}t
+$$
+
+$$
+z\left(t\right)\:=\:h+v_{oz}t+\frac{at^2}{2}
+$$
+
+Se obtiene la siguiente gráfica
+![Imgur](https://i.imgur.com/CPW4uUa.png)
