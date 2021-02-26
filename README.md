@@ -6,3 +6,12 @@
 
 ### En este repositorio se encuentran las *Jupyter Notebooks*  que se utilizan en la clase de **Elementos de Física**
 ![Imgur](https://i.imgur.com/YKyPqeN.jpg)
+
+#### Contenido
+1. Códigos de la clase
+	- Clase 2 Movimiento de proyectiles
+2. Graficas de funciones
+	- Campo vectorial
+	- Graficas de contorno, superficies
+	- Trayectoria en 3D
+	- Vectores en 2D.
