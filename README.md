@@ -19,15 +19,6 @@
 ### Códigos de la clase
 En esta sección encontrara las *Jupyter Notebooks* que se utilazan durante la clase para demostrar y/o modelar ejercicios.
 ##### Clase 2 Movimiento de proyectiles
-Esta libreta grafica el cambio de la velocidad de un proyectil a lo largo del tiempo. En específico se grafican las siguientes ecuaciones:
+Esta libreta grafica el cambio de la velocidad de un proyectil a lo largo del tiempo en un tiro vertical. Se obtiene la siguiente gráfica:
 
-$$
-x\left(t\right)=v_{ox}t
-$$
-
-$$
-z\left(t\right)\:=\:h+v_{oz}t+\frac{at^2}{2}
-$$
-
-Se obtiene la siguiente gráfica
 ![Imgur](https://i.imgur.com/CPW4uUa.png)
