@@ -4,22 +4,22 @@
 #### Profesor: [Dr. Ante Salcedo](https://facultad.itam.mx/es/facultad/32563-ante-salcedo-gonzalez)
 #### Asistente de profesor: [Isaac Alejandro Pimentel Morales](https://www.linkedin.com/in/isaac-alejandro-pimentel-morales/)
 
-### En este repositorio se encuentran las *Jupyter Notebooks*  que se utilizan en la clase de **Elementos de Física**
+### El repositorio está dirigido a los alumnos inscritos en la materia SDI-11120 Elementos de Física en el [ITAM](https://www.itam.mx/) durante el semestre de primavera 2021. Aquí se encuentran las *Jupyter Notebooks*  que se utilizan en la clase y ejemplos de programas.
 ![Imgur](https://i.imgur.com/YKyPqeN.jpg)
 
 ### Contenido
 1. Códigos de la clase
 	- Clase 2 Movimiento de proyectiles
-2. Graficas de funciones
+2. Ejemplos de código
 	- Campo vectorial
 	- Graficas de contorno, superficies
 	- Trayectoria en 3D
-	- Vectores en 2D.
+	- Vectores en 2D
 
 ### Códigos de la clase
 En esta sección encontrara las *Jupyter Notebooks* que se utilazan durante la clase para demostrar y/o modelar ejercicios.
 ##### Clase 2 Movimiento de proyectiles
-Esta libreta grafica el cambio de la velocidad de un proyectil a lo largo del tiempo en un tiro vertical. Se obtiene la siguiente gráfica:
+Esta libreta grafica el cambio de la velocidad de un proyectil a lo largo del tiempo en un tiro vertical. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/CPW4uUa.png)
 
@@ -40,6 +40,11 @@ El **segundo programa** grafica superficies en 3D. La superficie se define con u
 ![Imgur](https://i.imgur.com/regr9HO.png)
 
 #### Trayectoria en 3D
-Esta libreta grafica una trayectoria en 3 dimensiones. Es posible modificar la función que define la trayectoria. Por defecto se obtiene la siguiente gráfica:
+Esta libreta contiene un programa grafica una trayectoria en 3 dimensiones. Es posible modificar la función que define la trayectoria. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/ppSXh2S.png)
+
+#### Vectores en 2D
+Esta libreta contiene un programa que grafica campos vectoriales en 2D. El campo se define con una función de R2 a R2. Es posible modificar la función, pero no sus dimensiones. Se incluye el código para darle formato a la gráfica. Por defecto se obtiene la siguiente gráfica:
+
+![Imgur](https://i.imgur.com/UAY8Ge3.png)
