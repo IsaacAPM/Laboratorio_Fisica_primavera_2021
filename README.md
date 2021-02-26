@@ -18,19 +18,19 @@
 
 ### Códigos de la clase
 En esta sección encontrara las *Jupyter Notebooks* que se utilazan durante la clase para demostrar y/o modelar ejercicios.
-##### Clase 2 Movimiento de proyectiles
+##### [Clase 2 Movimiento de proyectiles](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Codigos%20de%20Clase/Clase%202%20Movimiento%20de%20proyectiles.ipynb)
 Esta libreta grafica el cambio de la velocidad de un proyectil a lo largo del tiempo en un tiro vertical. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/CPW4uUa.png)
 
 ###  Ejemplos de código
 En esta sección encontrara ejemplos de programas que sirven de guía para poder realizar las actividades pedidas en clase.
-#### Campo vectorial
+#### [Campo vectorial](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Graficas%20de%20funciones/Campo%20vectorial.ipynb)
 Esta libreta contiene un programa para graficar campos vectoriales en 3 dimensiones. Se muestra todo el código necesario para crear la gráfica y para darle formato. Puede utilizarlo de base para graficar cualquier campo vectorial R3 a R3. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/oVcJ4bS.png)
 
-#### Graficas de contorno y superficies
+#### [Graficas de contorno y superficies](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Graficas%20de%20funciones/Graficas%20de%20contorno%2C%20superficies.ipynb)
 Esta libreta contiene dos programas. El **primer programa** permite graficar curvas de nivel de una función potencial (función real de variable vectorial). Puede modificarlo para utilizar las variables que necesite. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/7mZPHY4.png)
@@ -39,12 +39,12 @@ El **segundo programa** grafica superficies en 3D. La superficie se define con u
 
 ![Imgur](https://i.imgur.com/regr9HO.png)
 
-#### Trayectoria en 3D
+#### [Trayectoria en 3D](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Graficas%20de%20funciones/Trayectoria%20en%203D.ipynb)
 Esta libreta contiene un programa grafica una trayectoria en 3 dimensiones. Es posible modificar la función que define la trayectoria. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/ppSXh2S.png)
 
-#### Vectores en 2D
+#### [Vectores en 2D](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Graficas%20de%20funciones/Vectores%20en%202D.ipynb)
 Esta libreta contiene un programa que grafica campos vectoriales en 2D. El campo se define con una función de R2 a R2. Es posible modificar la función, pero no sus dimensiones. Se incluye el código para darle formato a la gráfica. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/UAY8Ge3.png)
