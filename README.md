@@ -10,6 +10,7 @@
 ### Contenido
 1. Códigos de la clase
 	- Clase 2 Movimiento de proyectiles
+	- Clase 5 Simulador de campo electrico
 2. Ejemplos de código
 	- Campo vectorial
 	- Graficas de contorno, superficies
@@ -22,6 +23,11 @@ En esta sección encontrara las *Jupyter Notebooks* que se utilazan durante la c
 Esta libreta grafica el cambio de la velocidad de un proyectil a lo largo del tiempo en un tiro vertical. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/CPW4uUa.png)
+
+### [Clase 5 Simulador de campo electrico](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Codigos%20de%20Clase/Clase%205%20Lineas_de_campo_electrico.ipynb)
+Esta libreta contiene un simulador de campos electricos. Por defecto grafica un dipolo con una carga positiva y una negativa. Puede modificarse para graficar cualquier distribución de carga finita. Por defecto se obtiene la siguiente gráfica:
+
+![Imgur](https://i.imgur.com/nczQBXA.png)
 
 ###  Ejemplos de código
 En esta sección encontrara ejemplos de programas que sirven de guía para poder realizar las actividades pedidas en clase.
