@@ -1,4 +1,4 @@
-# Repositorio de código de Elementos de Física
+# Repositorio de código del Laboratorio de Elementos de Física
 
 Este repositorio contiene los *Jupyter Notebooks* que se utilzarón en el laboratorio de Elementos de Física del [ITAM](https://www.itam.mx/) en el semestre de primavera 2021.
 
