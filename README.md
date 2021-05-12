@@ -5,7 +5,7 @@ Este repositorio contiene los *Jupyter Notebooks* que se utilzarón en la clase 
 #### Profesor: [Dr. Ante Salcedo](https://facultad.itam.mx/es/facultad/32563-ante-salcedo-gonzalez)
 #### Asistente de profesor: [Isaac Alejandro Pimentel Morales](https://www.linkedin.com/in/isaac-alejandro-pimentel-morales/)
 
-### Tabla de contenidos
+## Tabla de contenidos
 1. Códigos de la clase
 	- Clase 2: Movimiento de proyectiles
 	- Clase 5: Simulador de campo electrico
@@ -15,13 +15,13 @@ Este repositorio contiene los *Jupyter Notebooks* que se utilzarón en la clase 
 	- Trayectoria en 3D
 	- Vectores en 2D
 
-### Códigos de la clase
-##### [Clase 2 Movimiento de proyectiles](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Codigos%20de%20Clase/Clase%202%20Movimiento%20de%20proyectiles.ipynb)
+## Códigos de la clase
+#### [Clase 2 Movimiento de proyectiles](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Codigos%20de%20Clase/Clase%202%20Movimiento%20de%20proyectiles.ipynb)
 Esta libreta grafica el cambio de la velocidad de un proyectil a lo largo del tiempo en un tiro vertical. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/CPW4uUa.png)
 
-##### [Clase 5 Simulador de campo electrico](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Codigos%20de%20Clase/Clase%205%20Lineas_de_campo_electrico.ipynb)
+#### [Clase 5 Simulador de campo electrico](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Codigos%20de%20Clase/Clase%205%20Lineas_de_campo_electrico.ipynb)
 Esta libreta contiene un simulador de campos electricos. Por defecto grafica un dipolo con una carga positiva y una negativa. Puede modificarse para graficar cualquier distribución de carga finita. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/nczQBXA.png)
