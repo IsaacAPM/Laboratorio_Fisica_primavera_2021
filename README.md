@@ -27,7 +27,6 @@ Esta libreta contiene un simulador de campos electricos. Si se ejecuta la celda 
 ![Imgur](https://i.imgur.com/nczQBXA.png)
 
 ###  Ejemplos de código
-En esta sección encontrara ejemplos de programas que sirven de guía para poder realizar las actividades pedidas en clase.
 #### [Campo vectorial](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Graficas%20de%20funciones/Campo%20vectorial.ipynb)
 Esta libreta contiene un programa para graficar campos vectoriales en 3 dimensiones. Se muestra todo el código necesario para crear la gráfica y para darle formato. Puede utilizarlo de base para graficar cualquier campo vectorial R3 a R3. Por defecto se obtiene la siguiente gráfica:
 
