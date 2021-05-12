@@ -17,12 +17,12 @@ Este repositorio contiene los *Jupyter Notebooks* que se utilzarón en el labora
 
 ## Códigos de la clase
 #### [Clase 2 Movimiento de proyectiles](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Codigos%20de%20Clase/Clase%202%20Movimiento%20de%20proyectiles.ipynb)
-Esta libreta grafica el cambio de la velocidad de un proyectil a lo largo del tiempo en un tiro vertical. Por defecto se obtiene la siguiente gráfica:
+Esta libreta grafica el cambio de la velocidad de un proyectil a lo largo del tiempo en un tiro vertical. Se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/CPW4uUa.png)
 
 #### [Clase 5 Simulador de campo electrico](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Codigos%20de%20Clase/Clase%205%20Lineas_de_campo_electrico.ipynb)
-Esta libreta contiene un simulador de campos electricos. Por defecto grafica un dipolo con una carga positiva y una negativa. Puede modificarse para graficar cualquier distribución de carga finita. Por defecto se obtiene la siguiente gráfica:
+Esta libreta contiene un simulador de campos electricos. Si se ejecuta la celda 4 grafica un dipolo con una carga positiva y una negativa. Si se ejecuta la celda 5 grafica cualquier distribución de carga finita. Para agregar la distribución deseada se debe agregar una lista en la celda 5 con el siguiente formato [(q1,(x1,y1)),(q2,(x2,y2)),...,(qi,(xi,yi),...,(qn,(xn,yn))].Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/nczQBXA.png)
 
