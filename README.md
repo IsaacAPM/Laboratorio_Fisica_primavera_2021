@@ -6,14 +6,14 @@ Este repositorio contiene los *Jupyter Notebooks* que se utilzarón en el labora
 #### Asistente de profesor: [Isaac Alejandro Pimentel Morales](https://www.linkedin.com/in/isaac-alejandro-pimentel-morales/)
 
 ## Tabla de contenidos
-1. Códigos de la clase
-	- Clase 2: Movimiento de proyectiles
-	- Clase 5: Simulador de campo electrico
-2. Ejemplos de código
-	- Campo vectorial
-	- Graficas de contorno, superficies
-	- Trayectoria en 3D
-	- Vectores en 2D
+1. [Códigos de la clase](#Códigos de la clase)
+	- [Clase 2: Movimiento de proyectiles](#Clase 2 Movimiento de proyectiles)
+	- [Clase 5: Simulador de campo electrico](#Clase 5 Movimiento de proyectiles)
+2. [Ejemplos de código](#Ejemplos de código)
+	- [Campo vectorial](#Campo vectorial)
+	- [Graficas de contorno y superficies](#Graficas de contorno y superficies)
+	- [Trayectoria en 3D](#Trayectoria en 3D)
+	- [Vectores en 2D](#Vectores en 2D)
 
 ## Códigos de la clase
 #### [Clase 2 Movimiento de proyectiles](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Codigos%20de%20Clase/Clase%202%20Movimiento%20de%20proyectiles.ipynb)
