@@ -28,25 +28,25 @@ Esta libreta contiene un simulador de campos electricos. Si se ejecuta la celda 
 
 ###  Ejemplos de código
 #### [Campo vectorial](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Graficas%20de%20funciones/Campo%20vectorial.ipynb)
-Esta libreta contiene un programa para graficar campos vectoriales en 3 dimensiones. Se muestra todo el código necesario para crear la gráfica y para darle formato. Puede utilizarlo de base para graficar cualquier campo vectorial R3 a R3. Por defecto se obtiene la siguiente gráfica:
+Esta libreta contiene un programa para graficar campos vectoriales en 3 dimensiones. La función F define el campo a graficar. Si modifica las variables u,v,w en F puede graficar cualquier campo vectorial R3 a R3. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/oVcJ4bS.png)
 
 #### [Graficas de contorno y superficies](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Graficas%20de%20funciones/Graficas%20de%20contorno%2C%20superficies.ipynb)
-Esta libreta contiene dos programas. El **primer programa** permite graficar curvas de nivel de una función potencial (función real de variable vectorial). Puede modificarlo para utilizar las variables que necesite. Por defecto se obtiene la siguiente gráfica:
+Esta libreta contiene dos programas. El **primer programa** permite graficar curvas de nivel de una función potencial (función real de variable vectorial). La variable zmesh define la función ha graficar. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/7mZPHY4.png)
 
-El **segundo programa** grafica superficies en 3D. La superficie se define con una función de R2 a R. Puede modificar la función, pero no sus dimensiones. Por defecto se obtiene la siguiente gráfica:
+El **segundo programa** grafica superficies en 3D. La superficie se define con una función de R2 a R. Puede modificar la función, pero no sus dimensiones. Al igual que el programa anterior la función ha graficar se define en la varible zmesh. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/regr9HO.png)
 
 #### [Trayectoria en 3D](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Graficas%20de%20funciones/Trayectoria%20en%203D.ipynb)
-Esta libreta contiene un programa grafica una trayectoria en 3 dimensiones. Es posible modificar la función que define la trayectoria. Por defecto se obtiene la siguiente gráfica:
+Esta libreta contiene un programa que grafica una trayectoria en 3 dimensiones. Es posible cambiar la función que define la trayectoria modificando las entradas del np.array de la función S. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/ppSXh2S.png)
 
 #### [Vectores en 2D](https://github.com/IsaacAPM/Laboratorio_Fisica_primavera_2021/blob/main/Graficas%20de%20funciones/Vectores%20en%202D.ipynb)
-Esta libreta contiene un programa que grafica campos vectoriales en 2D. El campo se define con una función de R2 a R2. Es posible modificar la función, pero no sus dimensiones. Se incluye el código para darle formato a la gráfica. Por defecto se obtiene la siguiente gráfica:
+Esta libreta contiene un programa que grafica campos vectoriales en 2D. El campo se define con una función de R2 a R2. Es posible modificar la función, pero no sus dimensiones. Para modificar el campo ha graficar se debe modificar las variables p y q de la función V. Se incluye el código para darle formato a la gráfica. Por defecto se obtiene la siguiente gráfica:
 
 ![Imgur](https://i.imgur.com/UAY8Ge3.png)
