@@ -1,10 +1,9 @@
 # Repositorio de código de Elementos de Física
+
 Este repositorio contiene los *Jupyter Notebooks* que se utilzarón en la clase del Laboratorio de Elementos de Física del [ITAM](https://www.itam.mx/) en el semestre de primavera 2021.
 
-### Profesor: [Dr. Ante Salcedo](https://facultad.itam.mx/es/facultad/32563-ante-salcedo-gonzalez)
-### Asistente de profesor: [Isaac Alejandro Pimentel Morales](https://www.linkedin.com/in/isaac-alejandro-pimentel-morales/)
-
-### Este repositorio está dirigido principalmente a los alumnos inscritos en la materia SDI-11120 Elementos de Física en el [ITAM](https://www.itam.mx/) durante el semestre de primavera 2021.
+#### Profesor: [Dr. Ante Salcedo](https://facultad.itam.mx/es/facultad/32563-ante-salcedo-gonzalez)
+#### Asistente de profesor: [Isaac Alejandro Pimentel Morales](https://www.linkedin.com/in/isaac-alejandro-pimentel-morales/)
 
 ### Tabla de contenidos
 1. Códigos de la clase
