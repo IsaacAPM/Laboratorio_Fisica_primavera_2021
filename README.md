@@ -8,7 +8,7 @@ Este repositorio contiene los *Jupyter Notebooks* que se utilzarón en el labora
 ## Tabla de contenidos
 1. [Códigos de la clase](#Códigos-de-la-clase)
 	- [Clase 2: Movimiento de proyectiles](#Clase-2-Movimiento-de-proyectiles)
-	- [Clase 5: Simulador de campo electrico](#Clase-5-Movimiento-de-proyectiles)
+	- [Clase 5: Simulador de campo electrico](#Clase-5-Simulador-de-campo-electrico)
 2. [Ejemplos de código](#Ejemplos-de-código)
 	- [Campo vectorial](#Campo-vectorial)
 	- [Graficas de contorno y superficies](#Graficas-de-contorno-y-superficies)
